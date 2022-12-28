@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ... MS Modern Data Platform.
-🌱 I’m currently learning ... About GitHub and how it can help the team I'm in.
-💬 Ask me about ... SQL Server and SSIS.
+🔭 I’m currently working on ... MS Modern Data Platform. \
+🌱 I’m currently learning ... About GitHub and how it can help the team I'm in. \
+💬 Ask me about ... SQL Server and SSIS. \
 😄 Pronouns: ... He/Him.
 
 
